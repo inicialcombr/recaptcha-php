@@ -1,0 +1,21 @@
+{
+    "name": "inicial/recaptcha-php",
+    "description": "Google reCAPTCHA Validate (PHP)",
+    "keywords": ["google", "recaptcha", "captcha", "validate", "php", "composer"],
+    "homepage": "https://github.com/inicialcombr/recaptcha-php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Inicial Soluções",
+            "email": "contato@inicial.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Recaptcha\\" : "Recaptcha/" }
+    },
+    "require": {
+        "php": ">=5.3",
+        "ext-curl": "*",
+        "ext-json": "*"
+    }
+}

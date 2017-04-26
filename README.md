@@ -1,1 +1,24 @@
-# recaptcha-php
+# Recaptcha (PHP)
+
+PHP class to validate Google reCAPTCHA.
+
+### With this class you can
+
+- Validate Google reCAPTCHA
+
+### Depencies
+
+- Web server with PHP support
+- PHP extension CURL enabled
+
+### Composer
+
+$ composer require inicial/recaptcha-php
+
+### Usage
+
+See examples
+
+### Note
+
+Report any bug or suggest changes using git [issues](https://github.com/inicialcombr/recaptcha-php/issues).
