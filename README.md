@@ -1,5 +1,7 @@
 # Recaptcha (PHP)
 
+[![GitHub version](https://badge.fury.io/gh/inicialcombr%2Frecaptcha-php.svg)](https://badge.fury.io/gh/inicialcombr%2Frecaptcha-php)
+
 PHP class to validate Google reCAPTCHA.
 
 ### With this class you can
@@ -17,7 +19,7 @@ $ composer require inicial/recaptcha-php
 
 ### Usage
 
-See examples
+See php files in examples folder
 
 ### Note
 
