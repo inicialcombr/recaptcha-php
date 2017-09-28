@@ -1,5 +1,5 @@
 {
-    "name": "inicial/recaptcha-php",
+    "name": "inicialcombr/recaptcha-php",
     "description": "Google reCAPTCHA Validate (PHP)",
     "keywords": ["google", "recaptcha", "captcha", "validate", "php", "composer"],
     "homepage": "https://github.com/inicialcombr/recaptcha-php",
