@@ -15,7 +15,7 @@ PHP class to validate Google reCAPTCHA.
 
 ### Composer
 
-$ composer require inicial/recaptcha-php
+$ composer require inicialcombr/recaptcha-php
 
 ### Usage
 
