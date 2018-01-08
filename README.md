@@ -1,7 +1,5 @@
 # Recaptcha (PHP)
 
-[![GitHub version](https://badge.fury.io/gh/inicialcombr%2Frecaptcha-php.svg)](https://badge.fury.io/gh/inicialcombr%2Frecaptcha-php)
-
 PHP class to validate Google reCAPTCHA.
 
 ### With this class you can
