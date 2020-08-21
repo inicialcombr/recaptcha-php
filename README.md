@@ -23,4 +23,4 @@ See php files in examples folder
 
 Read documentation on [Google reCAPTCHA](https://www.google.com/recaptcha) oficcial site.
 
-Report any bug or suggest changes using git [issues](https://github.com/inicialcombr/recaptcha-php/issues).
+Report any bug or suggest changes using git [issues](https://github.com/inicialsolucoes/recaptcha-php/issues).
